@@ -1,0 +1,6 @@
+//Hover Code bottom border
+@mixin Hover {
+    border-bottom: 2px solid $blue-color ;
+    color: $blue-color;
+    padding-bottom: 2px;//Shaking reduce 
+}
